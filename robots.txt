@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxebiara.github.io/TNM/sitemap_index.txt
+Sitemap: https://uxebiara.github.io/Ynu/sitemap_index.txt
+Sitemap: https://uxebiara.github.io/jdn/sitemap_index.txt
+Sitemap: https://uxebiara.github.io/vJS/sitemap_index.txt
